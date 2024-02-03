@@ -10,4 +10,4 @@ to run the no escape virus
 you need to install the vc_redist.x86.exe
 before you run the no escape.exe
  but you can use a virtul machine
-        like virtulbox
+        like https://www.virtualbox.org
